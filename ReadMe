@@ -1,0 +1,2 @@
+# pacmenfactory
+This project is a pacmen factory. When you click the button Add PacMan a new PacMan figure will appear on the screen. Once you click the "start game" button, the PacMan will begin to move around the screen randomly. You may continue adding PacMen to the screen by clicking the "Add PacMan" button. The PacMen will also move faster if you click the "Start Game" button multiple times.
